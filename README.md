@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjZDJiOWUyOGUyMzk2OWE1OTZkY2ZmYWUwMDQ4ZTU0ODY2NjQ0NyZjdD1n/iOkpqb0MRjWqtrOKVU/giphy-downsized.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjZDJiOWUyOGUyMzk2OWE1OTZkY2ZmYWUwMDQ4ZTU0ODY2NjQ0NyZjdD1n/iOkpqb0MRjWqtrOKVU/giphy-downsized.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -12,22 +12,15 @@
   </a>
 </div>
 
----
-
-### Hi there 👋
-
-<div align="center">
-  <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 ### :man_technologist: About Me :
 
-I know about Physics and Machine Learning! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIzZjNiODhhMmZkZDY2YjY4ZGVkMDVjZDk0NzM3OTczYTY0ZWJmMyZjdD1n/NsBknNwmmWE8WU1q2U/giphy-downsized.gif" width="30">
+I have studied Physics <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="50" height="50"/> and Machine Learning! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIzZjNiODhhMmZkZDY2YjY4ZGVkMDVjZDk0NzM3OTczYTY0ZWJmMyZjdD1n/NsBknNwmmWE8WU1q2U/giphy-downsized.gif" width="30">
 
 - :telescope: I’m working as a Freelance Data Scientist
 
-- :seedling: Learning Quantitative Trading <img src="https://media.giphy.com/media/bBhwav1nxQHhXJakIq/giphy.gif" width="30"> & Deep Reinforcement Learning.
+- :seedling: Learning Quantitative Trading <img src="https://media.giphy.com/media/bBhwav1nxQHhXJakIq/giphy.gif" width="30"> & Deep Reinforcement Learning <img src="https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif" width="50" height="40">.
 
 - :zap: Apart from ML, I like learning about Geopolitics/Internaltional Relations <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQyZTBmZTA1OGU0N2Y3MzdjNTk3OWFiN2IzNGIwZDgzNDA3MWRkZiZjdD1n/SxLR9IWXT8jGT6r0wH/giphy-downsized.gif" width="30">.
 
