@@ -18,7 +18,7 @@
 
 I have studied Physics <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="50" height="50"/> and Machine Learning! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIzZjNiODhhMmZkZDY2YjY4ZGVkMDVjZDk0NzM3OTczYTY0ZWJmMyZjdD1n/NsBknNwmmWE8WU1q2U/giphy-downsized.gif" width="30">
 
-- :telescope: I’m working as a Freelance Data Scientist
+- :telescope: Working as ML Engineer at DressmeAI
 
 - :seedling: Learning Quantitative Trading <img src="https://media.giphy.com/media/bBhwav1nxQHhXJakIq/giphy.gif" width="30"> & Deep Reinforcement Learning <img src="https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif" width="50" height="40">.
 
