@@ -23,7 +23,7 @@
 I am an **AI Engineer** with a background in **Theoretical Physics** <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="30"/>, specializing in bridging the gap between complex math and production-grade software. I focus on **Generative AI**, **Computer Vision**, and scalable **MLOps**.
 
 - :telescope: **Currently:** Working as an ML Engineer at **DwarfAI**, optimizing production pipelines.
-- :hammer: **Building:** Experimenting with **Multi-Agent Workflows (LangGraph)** and **Multimodal RAG** systems.
+- :hammer: **Building:** Experimenting with **Multi-Agent Workflows (LangGraph)** and **Multimodal** systems.
 - :chart_with_upwards_trend: **Interests:** Quantitative Finance, Deep Reinforcement Learning, and System Optimization.
 - :earth_africa: **Non-Tech:** Geopolitics & International Relations history.
 
