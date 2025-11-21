@@ -1,56 +1,60 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjZDJiOWUyOGUyMzk2OWE1OTZkY2ZmYWUwMDQ4ZTU0ODY2NjQ0NyZjdD1n/iOkpqb0MRjWqtrOKVU/giphy-downsized.gif" width="400"/>
+<div align="center">
+  <h2>Hi, I'm Ibtisam! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIzZjNiODhhMmZkZDY2YjY4ZGVkMDVjZDk0NzM3OTczYTY0ZWJmMyZjdD1n/NsBknNwmmWE8WU1q2U/giphy-downsized.gif" width="30"></h2>
+  <h3>AI Engineer | Physicist | Generative AI Specialist</h3>
 </div>
 
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ibtim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a>
-    
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIbtisam-Mohammad%2F&label=visits&labelColor=%2337d67a&countColor=%23555555&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FIbtisam-Mohammad%2F)
+   <a href="https://github.com/Ibtisam-Mohammad">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <br/>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FIbtisam-Mohammad%2F">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIbtisam-Mohammad%2F&label=VISITS&labelColor=%2337d67a&countColor=%23555555&style=for-the-badge" alt="Visitors"/>
   </a>
 </div>
 
+<br />
 
----
-### :man_technologist: About Me :
+### :man_technologist: About Me
 
-I have studied Physics <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="50" height="50"/> and Machine Learning! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIzZjNiODhhMmZkZDY2YjY4ZGVkMDVjZDk0NzM3OTczYTY0ZWJmMyZjdD1n/NsBknNwmmWE8WU1q2U/giphy-downsized.gif" width="30">
+I am an **AI Engineer** with a background in **Theoretical Physics** <img src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" width="30"/>, specializing in bridging the gap between complex math and production-grade software. I focus on **Generative AI**, **Computer Vision**, and scalable **MLOps**.
 
-- :telescope: Working as ML Engineer at DressmeAI
-
-- :seedling: Learning Quantitative Trading <img src="https://media.giphy.com/media/bBhwav1nxQHhXJakIq/giphy.gif" width="30"> & Deep Reinforcement Learning <img src="https://user-images.githubusercontent.com/10624937/42135602-b0335606-7d12-11e8-8689-dd1cf9fa11a9.gif" width="50" height="40">.
-
-- :zap: Apart from ML, I like learning about Geopolitics/Internaltional Relations <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQyZTBmZTA1OGU0N2Y3MzdjNTk3OWFiN2IzNGIwZDgzNDA3MWRkZiZjdD1n/SxLR9IWXT8jGT6r0wH/giphy-downsized.gif" width="30">.
-
-- :mailbox: You can reach me through: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/ibtim/)
-
+- :telescope: **Currently:** Working as an ML Engineer at **DwarfAI**, optimizing production pipelines.
+- :hammer: **Building:** Experimenting with **Multi-Agent Workflows (LangGraph)** and **Multimodal RAG** systems.
+- :chart_with_upwards_trend: **Interests:** Quantitative Finance, Deep Reinforcement Learning, and System Optimization.
+- :earth_africa: **Non-Tech:** Geopolitics & International Relations history.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :toolbox: Technical Stack
+
+**Core AI & Frameworks:**
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="Fast API" alt="Fast API UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </div>
 
+**Engineering & MLOps:**
+<div>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
 ---
 
-### :fire: My Stats :
-<table>
-  <tr>
-    <td><a href="https://github.com/Imd"><img src="https://github-readme-stats.vercel.app/api?username=Ibtisam-Mohammad&show_icons=true&bg_color=10,f4cecc,9fc576,8fbb60,7fb249,6fa832,f4cecc" alt="GitHub stats"></a></td>
-    <td><a href="https://github.com/Imd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtisam-Mohammad" alt="Top Languages"></a></td>
-  </tr>
-</table>
-
-
-
-<!--
-**Ibtisam-Mohammad/Ibtisam-Mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### :fire: GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Ibtisam-Mohammad&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtisam-Mohammad&layout=compact&theme=radical&hide_border=true" alt="Top Languages"></td>
+    </tr>
+  </table>
+</div>
